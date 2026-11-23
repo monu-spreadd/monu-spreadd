@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Monu Gupta</h1>
+<h3 align="center">A Software Developer from India</h3>
 
-<!--
-**monu-spreadd/monu-spreadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Languages and Tools:
+<p align="center">
+  <a href="#">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=angular,bootstrap,codeigniter,css,express,figma,flutter,git,html,illustrator,javascript,linux,mariadb,mysql,nginx,nodejs,php,postgresql,postman,pug,python,react,sass,tailwind,typescript,n8n,jenkins,nextjs&theme=dark&perline=7&titles=true"
+    />
+  </a>
+</p>
